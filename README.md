@@ -53,6 +53,7 @@ On one terminal, go to the frontend folder named `client`, install dependencies 
 cd client
 npm install
 npm run dev
+
 ```
 
 You should now be able to see the frontend at [http://localhost:3000/](http://localhost:3000/)
