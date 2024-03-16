@@ -15,6 +15,7 @@ To start the project using Docker, even from scratch, run the following command:
 ```bash
 cp .env.sample .env
 docker-compose up
+
 ```
 
 Then go to [http://localhost:3000/](http://localhost:3000/) to access the **frontend** or [http://localhost:8080/](http://localhost:8080/) to access the **backend**
